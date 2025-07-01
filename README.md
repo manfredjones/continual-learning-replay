@@ -7,7 +7,7 @@ Este proyecto investiga el uso de técnicas de **Aprendizaje Continuo (Continual
 - 🧾 Modelo base: T5-small (Transformers de HuggingFace)  
 - 🗂️ Tareas:
   - A: Simplificación automática de texto en español
-  - B: Traducción u otra tarea NLP relacionada
+  - B: Traducción como tarea NLP relacionada
 - 🛠️ Técnica aplicada: Replay (almacenamiento y reutilización de ejemplos anteriores)
 - 📊 Métricas utilizadas:
   - ROUGE para simplificación
