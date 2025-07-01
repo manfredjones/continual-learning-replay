@@ -25,11 +25,12 @@ Este proyecto investiga el uso de técnicas de **Aprendizaje Continuo (Continual
 
 - 📄 Reporte de investigación (PDF): [Mitigación del Olvido mediante Replay.pdf](https://github.com/user-attachments/files/20990721/Mitigacion.del.Olvido.mediante.Replay.pdf)
 
+- 📘 [Ver en Colab](https://colab.research.google.com/drive/1-JQLwsWq12xFTrBg0jpH2B0Uckzi0_iB?usp=sharing)
 
 
 ## 🔎 Resultados
 
 El uso de Replay ayuda a reducir significativamente el olvido catastrófico al incorporar nuevas tareas, manteniendo el rendimiento en tareas anteriores.
 
-📘 [Ver en Colab](https://colab.research.google.com/drive/1-JQLwsWq12xFTrBg0jpH2B0Uckzi0_iB?usp=sharing)
+
 
