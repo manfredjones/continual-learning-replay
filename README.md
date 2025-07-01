@@ -23,6 +23,9 @@ Este proyecto investiga el uso de técnicas de **Aprendizaje Continuo (Continual
 
 - `Forgetting_Mitigation_with_Replay.ipynb`: Notebook principal con entrenamiento y evaluación
 
+- 📄 [Ver reporte de investigación (PDF)]([Mitigación del Olvido mediante Replay.pdf](https://github.com/user-attachments/files/20990721/Mitigacion.del.Olvido.mediante.Replay.pdf)
+
+
 
 ## 🔎 Resultados
 
