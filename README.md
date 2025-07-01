@@ -27,3 +27,5 @@ Este proyecto investiga el uso de técnicas de **Aprendizaje Continuo (Continual
 
 El uso de Replay ayuda a reducir significativamente el olvido catastrófico al incorporar nuevas tareas, manteniendo el rendimiento en tareas anteriores.
 
+📘 [Ver en Colab](https://colab.research.google.com/drive/1-JQLwsWq12xFTrBg0jpH2B0Uckzi0_iB?usp=sharing)
+
