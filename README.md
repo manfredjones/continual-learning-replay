@@ -21,7 +21,8 @@ Este proyecto investiga el uso de técnicas de **Aprendizaje Continuo (Continual
 
 ## 📁 Archivos
 
-- `CL_Simplificacion_T5.ipynb`: Notebook principal con entrenamiento y evaluación
+- `Forgetting_Mitigation_with_Replay.ipynb`: Notebook principal con entrenamiento y evaluación
+
 
 ## 🔎 Resultados
 
